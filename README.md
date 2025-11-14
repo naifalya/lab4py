@@ -31,6 +31,9 @@ Berikut adalah dokumentasi proses pengerjaan praktikum:
 <img width="755" height="446" alt="1Praktikum" src="https://github.com/user-attachments/assets/7e73ac52-2b33-45a0-be3e-888283871a0c" />
 <img width="887" height="293" alt="2Praktikum" src="https://github.com/user-attachments/assets/c19431f8-7d09-4fa5-872a-ee2c86f590f7" />
 
+Berikut adalah alur kerja program pendataan nilai mahasiswa:
+<img width="233" height="581" alt="flowchartP" src="https://github.com/user-attachments/assets/043e1c52-3b91-4794-bba7-5eb2f4d17661" />
+
 Dan, berikut adalah output dari latihan tersebut:
 <img width="634" height="419" alt="HasilP" src="https://github.com/user-attachments/assets/f365864d-adc9-4914-9e42-1876747ec36c" />
 
